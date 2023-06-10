@@ -2,7 +2,7 @@
 
 <!-- [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/) -->
 # Contato
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-chaves-ds/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg)](https://www.linkedin.com/in/rafael-chaves-ds/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelchaveslv@gmail.com)
 
 # Skills
