@@ -2,7 +2,7 @@
 
 <!-- [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/) -->
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafaelchaveslv@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelchaveslv@gmail.com)
 
 <!--
 **Kninja69/Kninja69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
