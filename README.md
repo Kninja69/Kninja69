@@ -40,19 +40,19 @@
     <img align="center" alt="Node-RED" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/au533-e22ya.svg">
 <div><br>
 
-<style>
-    .invisible-row {
-        border: none !important;
-    }
-</style>
+### DataBases
+<div style="display: inline-block;">
+    <img align="center" alt="Microsoft SQL Server" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/a8akt-ldcjx.svg">
+    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="MariaDB" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/adx7g-j1to7.svg">
+    <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+</div>
 
-| DataBases | IA/ChatBot |
-| --------- | ---------- |
-| <img align="center" alt="Microsoft SQL Server" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/a8akt-ldcjx.svg"> <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> <img align="center" alt="MariaDB" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/adx7g-j1to7.svg"> <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"> | <img align="center" alt="IBM Watson Assistant" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ajty2-n6pwi.svg"> |
-| --- | --- |
-|  |  |
-
-
+### IA/ChatBot
+<div style="display: inline-block;">
+    <img align="center" alt="IBM Watson Assistant" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ajty2-n6pwi.svg">
+</div>
 
 ### IOT
 <div style="display: inline_block;">
@@ -61,21 +61,18 @@
 </div><br>
 
 ### Robótica
-
 <div style="display: inline_block;">
     <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 </div><br>
 
 ### Terminal
-
 <div style="display: inline_block;">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Windows Terminal" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/aqlt9-yef55.svg">
-    <img align="center" alt="PowerShell" height="30" width="40" src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg">
+    <img align="center" alt="PowerShell" height="30" width="40"    src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg">
 </div><br>
 
 ### IDEs
-
 <div style="display: inline_block;">
     <img align="center" alt="Visual Studio" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/agixr-eq82k.svg">
     <img align="center" alt="Sublime Text" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
@@ -91,21 +88,18 @@
 </div><br>
 
 ### Hospedagens de código
-
 <div style="display: inline_block;">
     <img align="center" alt="Github" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/axi9b-s34si.svg">
     <img align="center" alt="TFS Azure DevOps" height="30" width="40" src="https://zeevector.com/wp-content/uploads/Azure-Devops-Logo@zeevector.com_.svg">
 </div><br>
 
 ### Softwares
-
 <div style="display: inline_block;">
     <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
     <img align="center" alt="Postman" height="30" width="40" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
 </div> <br>
 
 ### Design
-
 <div style="display: inline_block;">
     <img align="center" alt="Adobe After Effects" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/aiq23-nhdpb.svg">
     <img align="center" alt="Adobe Photoshop" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ao7g4-touy9.svg">
@@ -117,7 +111,6 @@
 </div><br>
 
 ### Gestão de projetos
-
 <div style="display: inline_block;">
     <img align="center" alt="Atlassian" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/al5ja-cmgme.svg">
     <img align="center" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
@@ -126,7 +119,6 @@
 </div><br>
 
 ### Office
-
 <div style="display: inline_block;">
     <img align="center" alt="Microsoft Office" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ar6ol-vs7gn.svg">
     <img align="center" alt="Prezi" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/aqb0n-e5z99.svg">
