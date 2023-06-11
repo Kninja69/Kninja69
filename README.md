@@ -9,7 +9,7 @@
 <br><br>
 
 # Skills
-### Languages
+### Linguagens
 <div style="display: inline_block">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -38,7 +38,7 @@
     <img align="center" alt="Node-RED" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/au533-e22ya.svg">
 <div><br>
 
-### DataBase
+### DataBases
 <div style="display: inline_block">
     <img align="center" alt="MicrosoftSQLServer" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/a8akt-ldcjx.svg">
     <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
@@ -70,7 +70,7 @@
     <img align="center" alt="PowerShell" height="30" width="40" src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg">
 </div><br>
 
-### IDE
+### IDEs
 <div style="display: inline_block">
     <img align="center" alt="Visual Studio" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/agixr-eq82k.svg">
     <img align="center" alt="Sublime Text" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
@@ -85,13 +85,13 @@
     <img align="center" alt="XAMPP" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/xampp.svg">
 </div><br>
 
-### Hospedagem de código
+### Hospedagens de código
 <div style="display: inline_block">
     <img align="center" alt="Github" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/axi9b-s34si.svg">
     <img align="center" alt="TFS Azure DevOps" height="30" width="40" src="https://zeevector.com/wp-content/uploads/Azure-Devops-Logo@zeevector.com_.svg">
 </div><br>
 
-### Software
+### Softwares
 <div style="display: inline_block">
     <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
     <img align="center" alt="Postman" height="30" width="40" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
