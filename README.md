@@ -1,6 +1,6 @@
 # Contato
 
-<div style="display: inline_block">
+<div style="display: inline_block;">
     <a href="https://www.linkedin.com/in/rafael-chaves-ds/">
         <img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
     </a>
@@ -13,7 +13,7 @@
 # Skills
 
 ### Linguagens
-<div style="display: inline_block">
+<div style="display: inline_block;">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,7 +28,7 @@
 </div><br>
 
 ### Frameworks
-<div style="display: inline_block">
+<div style="display: inline_block;">
     <img align="center" alt=".Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
     <img align="center" alt=".Net Maui" height="30" width="40" src="https://raw.githubusercontent.com/MahmudX/awesome-maui/main/dotnet_bot.svg">
     <img align="center" alt="Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
@@ -56,20 +56,20 @@
 </div><br>
 
 ### IOT
-<div style="display: inline_block">
+<div style="display: inline_block;">
     <img align="center" alt="IFTTT" height="30" width="40" src="https://www.logo.wine/a/logo/IFTTT/IFTTT-Logo.wine.svg">
     <img align="center" alt="Arduino ESP" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/aegst-4q9kv.svg">
 </div><br>
 
 ### Robótica
 
-<div style="display: inline_block">
+<div style="display: inline_block;">
     <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 </div><br>
 
 ### Terminal
 
-<div style="display: inline_block">
+<div style="display: inline_block;">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Windows Terminal" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/aqlt9-yef55.svg">
     <img align="center" alt="PowerShell" height="30" width="40" src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg">
@@ -77,7 +77,7 @@
 
 ### IDEs
 
-<div style="display: inline_block">
+<div style="display: inline_block;">
     <img align="center" alt="Visual Studio" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/agixr-eq82k.svg">
     <img align="center" alt="Sublime Text" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
     <img align="center" alt="Atom" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
@@ -93,21 +93,21 @@
 
 ### Hospedagens de código
 
-<div style="display: inline_block">
+<div style="display: inline_block;">
     <img align="center" alt="Github" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/axi9b-s34si.svg">
     <img align="center" alt="TFS Azure DevOps" height="30" width="40" src="https://zeevector.com/wp-content/uploads/Azure-Devops-Logo@zeevector.com_.svg">
 </div><br>
 
 ### Softwares
 
-<div style="display: inline_block">
+<div style="display: inline_block;">
     <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
     <img align="center" alt="Postman" height="30" width="40" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
 </div> <br>
 
 ### Design
 
-<div style="display: inline_block">
+<div style="display: inline_block;">
     <img align="center" alt="Adobe After Effects" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/aiq23-nhdpb.svg">
     <img align="center" alt="Adobe Photoshop" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ao7g4-touy9.svg">
     <img align="center" alt="Adobe Premiere Pro" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/aaolz-dcw1y.svg">
@@ -119,7 +119,7 @@
 
 ### Gestão de projetos
 
-<div style="display: inline_block">
+<div style="display: inline_block;">
     <img align="center" alt="Atlassian" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/al5ja-cmgme.svg">
     <img align="center" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
     <img align="center" alt="Confluence" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg">
@@ -128,7 +128,7 @@
 
 ### Office
 
-<div style="display: inline_block">
+<div style="display: inline_block;">
     <img align="center" alt="Microsoft Office" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ar6ol-vs7gn.svg">
     <img align="center" alt="Prezi" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/aqb0n-e5z99.svg">
 </div>
