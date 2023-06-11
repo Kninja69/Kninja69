@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 # Contato
 <div style="display: inline_block">
     <a href="https://www.linkedin.com/in/rafael-chaves-ds/">
@@ -124,7 +121,7 @@
 <div style="display: inline_block">
     <img align="center" alt="Microsoft Office" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ar6ol-vs7gn.svg">
     <img align="center" alt="Prezi" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/aqb0n-e5z99.svg">
-</div><br><br>
+</div>
 
 
 
