@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/) -->
+
 # Contato
 <div style="display: inline_block">
   <img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
