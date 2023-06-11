@@ -11,7 +11,6 @@
 <br><br>
 
 # Skills
-
 ### Linguagens
 <div style="display: inline_block;">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -50,10 +49,10 @@
     <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 </div><br>
 
-### IA/ChatBot
-<div style="display: inline_block; float: left; margin-left: 10px;">
+<div style="float: left; margin-right: 10px;">
+    <h3>IA/ChatBot</h3>
     <img align="center" alt="IBM Watson Assistant" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ajty2-n6pwi.svg">
-</div><br>
+</div>
 
 ### IOT
 <div style="display: inline_block;">
@@ -132,6 +131,7 @@
     <img align="center" alt="Microsoft Office" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ar6ol-vs7gn.svg">
     <img align="center" alt="Prezi" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/aqb0n-e5z99.svg">
 </div>
+
 
 <!--
 **Kninja69/Kninja69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
