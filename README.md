@@ -47,12 +47,12 @@
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" alt="MariaDB" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/adx7g-j1to7.svg">
     <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-</div>
-
+</div><br>
+    
 ### IA/ChatBot
 <div style="display: inline-block;">
     <img align="center" alt="IBM Watson Assistant" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ajty2-n6pwi.svg">
-</div>
+</div><br>
 
 ### IOT
 <div style="display: inline_block;">
