@@ -21,7 +21,7 @@
     <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
     <img align="center" alt="Markdown" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/a5u5a-t9ybg.svg">
     <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-    <img align="center" alt="JSON" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/a0qlu-5fy5x.svg">
+    <img align="center" alt="JSON" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ak985-yy4n2.svg">
 </div><br>
 
 ### Frameworks
@@ -87,7 +87,7 @@
 
 ### Hospedagem de código
 <div style="display: inline_block">
-  <img align="center" alt="Github" height="30" width="40" src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Dark-Background-Logo.wine.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/axi9b-s34si.svg">
   <img align="center" alt="TFS Azure DevOps" height="30" width="40" src="https://zeevector.com/wp-content/uploads/Azure-Devops-Logo@zeevector.com_.svg">
 </div><br>
 
@@ -118,7 +118,7 @@
 ### Office
 <div style="display: inline_block">
   <img align="center" alt="Microsoft Office" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ar6ol-vs7gn.svg">
-  <img align="center" alt="Prezi" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Prezi_logo_transparent_2012.svg">
+  <img align="center" alt="Prezi" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/aqb0n-e5z99.svg">
 </div><br><br>
 
 
