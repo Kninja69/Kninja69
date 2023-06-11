@@ -13,15 +13,12 @@
 # Skills
 
 ### Linguagens
-
 <div style="display: inline_block">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Delphi" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/af2em-wu35a.svg">
-</div>
-<div style="display: inline_block">
     <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
@@ -31,7 +28,6 @@
 </div><br>
 
 ### Frameworks
-
 <div style="display: inline_block">
     <img align="center" alt=".Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
     <img align="center" alt=".Net Maui" height="30" width="40" src="https://raw.githubusercontent.com/MahmudX/awesome-maui/main/dotnet_bot.svg">
@@ -46,8 +42,7 @@
 <div><br>
 
 ### DataBases
-
-<div style="display: inline_block">
+<div style="display: inline_block; float: left;">
     <img align="center" alt="MicrosoftSQLServer" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/a8akt-ldcjx.svg">
     <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -56,13 +51,11 @@
 </div><br>
 
 ### IA/ChatBot
-
-<div style="display: inline_block">
+<div style="display: inline_block; float: left; margin-left: 10px;">
     <img align="center" alt="IBM Watson Assistant" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ajty2-n6pwi.svg">
 </div><br>
 
 ### IOT
-
 <div style="display: inline_block">
     <img align="center" alt="IFTTT" height="30" width="40" src="https://www.logo.wine/a/logo/IFTTT/IFTTT-Logo.wine.svg">
     <img align="center" alt="Arduino ESP" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/aegst-4q9kv.svg">
