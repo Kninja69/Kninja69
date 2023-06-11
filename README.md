@@ -15,13 +15,13 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Delphi" height="30" width="40" src="https://dtffvb2501i0o.cloudfront.net/images/logos/logo-page/delphi-logo-1024.png">
+    <img align="center" alt="Delphi" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/af2em-wu35a.svg">
     <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-    <img align="center" alt="Markdown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+    <img align="center" alt="Markdown" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/a5u5a-t9ybg.svg">
     <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-    <img align="center" alt="JSON" height="30" width="40" src="https://www.svgrepo.com/show/306281/json.svg">
+    <img align="center" alt="JSON" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/a0qlu-5fy5x.svg">
 </div><br>
 
 ### Frameworks
@@ -35,12 +35,12 @@
     <img align="center" alt="jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
     <img align="center" alt="NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
     <img align="center" alt="Xamarin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg">
-    <img align="center" alt="Node-RED" height="30" width="40" src="https://www.svgrepo.com/show/342074/node-red.svg">
+    <img align="center" alt="Node-RED" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/au533-e22ya.svg">
 <div><br>
 
 ### DataBase
 <div style="display: inline_block">
-  <img align="center" alt="MicrosoftSQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="MicrosoftSQLServer" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/a8akt-ldcjx.svg">
   <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="MariaDB" height="30" width="40" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-horizontal-blue.svg">
@@ -49,13 +49,13 @@
 
 ### IA/ChatBot
 <div style="display: inline_block">
-  <img align="center" alt="IBM Watson Assistant" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/ibm-watson.svg">
+  <img align="center" alt="IBM Watson Assistant" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ajty2-n6pwi.svg">
 </div><br>
 
 ### IOT
 <div style="display: inline_block">
-  <img align="center" alt="IFTTT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg">
-  <img align="center" alt="Arduino ESP" height="30" width="40" src="https://www.svgrepo.com/show/330385/espressif.svg">
+  <img align="center" alt="IFTTT" height="30" width="40" src="https://www.logo.wine/a/logo/IFTTT/IFTTT-Logo.wine.svg">
+  <img align="center" alt="Arduino ESP" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/aegst-4q9kv.svg">
 </div><br>
 
 ### Robótica
@@ -66,7 +66,7 @@
 ### Terminal
 <div style="display: inline_block">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Windows Terminal" height="30" width="40" src="https://img.uxwing.com/wp-content/themes/uxwing/download/web-app-development/cmd-terminal-icon.svg">
+  <img align="center" alt="Windows Terminal" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/aqlt9-yef55.svg">
   <img align="center" alt="PowerShell" height="30" width="40" src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg">
 </div><br>
 
@@ -87,7 +87,7 @@
 
 ### Hospedagem de código
 <div style="display: inline_block">
-  <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Dark-Background-Logo.wine.svg">
   <img align="center" alt="TFS Azure DevOps" height="30" width="40" src="https://zeevector.com/wp-content/uploads/Azure-Devops-Logo@zeevector.com_.svg">
 </div><br>
 
