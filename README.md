@@ -40,9 +40,21 @@
     <img align="center" alt="Node-RED" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/au533-e22ya.svg">
 <div><br>
 
-| DataBases | IA/ChatBot |
-| --- | --- |
-| <img align="center" alt="Microsoft SQL Server" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/a8akt-ldcjx.svg"> <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> <img align="center" alt="MariaDB" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/adx7g-j1to7.svg"> <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"> | <img align="center" alt="IBM Watson Assistant" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ajty2-n6pwi.svg"> |
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <h3>DataBases</h3>
+    <img align="center" alt="Microsoft SQL Server" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/a8akt-ldcjx.svg">
+    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="MariaDB" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/adx7g-j1to7.svg">
+    <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  </div>
+  <div style="flex: 1;">
+    <h3>IA/ChatBot</h3>
+    <img align="center" alt="IBM Watson Assistant" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ajty2-n6pwi.svg">
+  </div>
+</div>
+
 
 
 ### IOT
