@@ -43,7 +43,7 @@
     <img align="center" alt="MicrosoftSQLServer" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/a8akt-ldcjx.svg">
     <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" alt="MariaDB" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/avpwv-5yfa2.svg">
+    <img align="center" alt="MariaDB" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/adx7g-j1to7.svg">
     <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 </div><br>
 
