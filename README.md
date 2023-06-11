@@ -40,19 +40,18 @@
     <img align="center" alt="Node-RED" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/au533-e22ya.svg">
 <div><br>
 
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <h3>DataBases</h3>
-        <img align="center" alt="Microsoft SQL Server" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/a8akt-ldcjx.svg">
-        <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-        <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-        <img align="center" alt="MariaDB" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/adx7g-j1to7.svg">
-        <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-    </div>
-    <div>
-        <h3>IA/ChatBot</h3>
-        <img align="center" alt="IBM Watson Assistant" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ajty2-n6pwi.svg">
-    </div>
+### DataBases
+<div style="display: inline_block;">
+    <img align="center" alt="MicrosoftSQLServer" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/a8akt-ldcjx.svg">
+    <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="MariaDB" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/adx7g-j1to7.svg">
+    <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+</div><br>
+
+<div style="float: left; margin-right: 10px;">
+    <h3>IA/ChatBot</h3>
+    <img align="center" alt="IBM Watson Assistant" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ajty2-n6pwi.svg">
 </div>
 
 ### IOT
@@ -132,19 +131,3 @@
     <img align="center" alt="Microsoft Office" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ar6ol-vs7gn.svg">
     <img align="center" alt="Prezi" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/aqb0n-e5z99.svg">
 </div>
-
-
-<!--
-**Kninja69/Kninja69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
