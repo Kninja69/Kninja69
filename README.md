@@ -68,6 +68,7 @@
 ### Terminal
 <div style="display: inline_block;">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
     <img align="center" alt="Windows Terminal" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/aqlt9-yef55.svg">
     <img align="center" alt="PowerShell" height="30" width="40"    src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg">
 </div><br>
