@@ -57,7 +57,7 @@
 ### IOT
 <div style="display: inline_block;">
     <img align="center" alt="IFTTT" height="30" width="40" src="https://www.logo.wine/a/logo/IFTTT/IFTTT-Logo.wine.svg">
-    <img align="center" alt="Arduino ESP" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/aegst-4q9kv.svg">
+    <img align="center" alt="Arduino ESP" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg">
 </div><br>
 
 ### Robótica
