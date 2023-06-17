@@ -79,7 +79,7 @@
     <img align="center" alt="Atom" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
     <img align="center" alt="Adobe Dreamweaver" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ad2pl-y8uus.svg">
     <img align="center" alt="Android Studio" height="30" width="40" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/android-studio-icon.svg">
-    <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/a32h7-kdy0k.svg">
+    <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="NetBeans IDE" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ae6j9-vcfxl.svg">
     <img align="center" alt="PyCharm" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/a146g-pv8g8.svg">
     <img align="center" alt="PhpStorm" height="30" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/avxua-3fxoo.svg">
