@@ -89,7 +89,7 @@
 
 ### Hospedagens de código
 <div style="display: inline_block;">
-    <img align="center" alt="Github" height="30" width="40" src="icons/GitHub.svg">
+    <img align="center" alt="Github" height="30" width="30" src="icons/GitHub.svg">
     <img align="center" alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
     <img align="center" alt="TFS Azure DevOps" height="30" width="40" src="https://zeevector.com/wp-content/uploads/Azure-Devops-Logo@zeevector.com_.svg">
 </div><br>
@@ -108,12 +108,12 @@
     <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
     <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     <img align="center" alt="Inkscape" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg">
-    <img align="center" alt="Fusion 360" height="30" width="40" src="icons/Fusion360.svg">
+    <img align="center" alt="Fusion 360" height="30" width="30" src="icons/Fusion360.svg">
 </div><br>
 
 ### Gestão de projetos
 <div style="display: inline_block;">
-    <img align="center" alt="Atlassian" height="30" width="40" src="icons/Atlassian.svg">
+    <img align="center" alt="Atlassian" height="30" width="30" src="icons/Atlassian.svg">
     <img align="center" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
     <img align="center" alt="Confluence" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg">
     <img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
@@ -122,5 +122,5 @@
 ### Office
 <div style="display: inline_block;">
     <img align="center" alt="Microsoft Office" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg">
-    <img align="center" alt="Prezi" height="30" width="40" src="icons/Prezi.svg">
+    <img align="center" alt="Prezi" height="30" width="30" src="icons/Prezi.svg">
 </div>
