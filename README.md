@@ -21,9 +21,9 @@
     <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-    <img align="center" alt="Markdown" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/markdown.svg">
+    <img align="center" alt="Markdown" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/markdown.svg">
     <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-    <img align="center" alt="JSON" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/json.svg">
+    <img align="center" alt="JSON" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/json.svg">
 </div><br>
 
 ### Frameworks
