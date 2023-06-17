@@ -77,12 +77,12 @@
     <img align="center" alt="Visual Studio" height="30" width="40" src="icons/VS.svg">
     <img align="center" alt="Sublime Text" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
     <img align="center" alt="Atom" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
-    <img align="center" alt="Adobe Dreamweaver" height="30" width="40" src="icons/Dreamweaver.svg">
+    <img align="center" alt="Adobe Dreamweaver" height="30" width="30" src="icons/Dreamweaver.svg">
     <img align="center" alt="Android Studio" height="30" width="40" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/android-studio-icon.svg">
     <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="NetBeans IDE" height="30" width="40" src="icons/NeatBeansIde.svg">
-    <img align="center" alt="PyCharm" height="30" width="40" src="icons/PyCharm.svg">
-    <img align="center" alt="PhpStorm" height="30" width="40" src="icons/PhpStorm.svg">
+    <img align="center" alt="NetBeans IDE" height="30" width="30" src="icons/NeatBeansIde.svg">
+    <img align="center" alt="PyCharm" height="30" width="30" src="icons/PyCharm.svg">
+    <img align="center" alt="PhpStorm" height="30" width="30" src="icons/PhpStorm.svg">
     <img align="center" alt="Arduino IDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
     <img align="center" alt="XAMPP" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/xampp.svg">
 </div><br>
