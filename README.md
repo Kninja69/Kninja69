@@ -32,12 +32,12 @@
     <img align="center" alt=".Net Maui" height="30" width="40" src="https://raw.githubusercontent.com/MahmudX/awesome-maui/main/dotnet_bot.svg">
     <img align="center" alt="Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
     <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Materialize" height="25" width="45" src="icons/Materialize.svg">
+    <img align="center" alt="Materialize" height="23" width="45" src="icons/Materialize.svg">
     <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
     <img align="center" alt="jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
     <img align="center" alt="NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
     <img align="center" alt="Xamarin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg">
-    <img align="center" alt="Node-RED" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/node-red-2.svg">
+    <img align="center" alt="Node-RED" height="25" width="40" src="https://cdn.worldvectorlogo.com/logos/node-red-2.svg">
 <div><br>
 
 ### DataBases
