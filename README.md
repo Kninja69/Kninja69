@@ -51,7 +51,7 @@
     
 ### IA/ChatBot
 <div style="display: inline-block;">
-    <img align="center" alt="IBM Watson Assistant" height="30" width="40" src="">
+    <img align="center" alt="IBM Watson Assistant" height="30" width="40" src="icons/IbmWatson.svg">
 </div><br>
 
 ### IOT
