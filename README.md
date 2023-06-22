@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/rafael-chaves-ds/">
         <img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
     </a>
-    <a href="mailto:rafaelchaveslv@gmail.com">
+    <a href="mailto:contato@kninjaa.github.io">
         <img align="center" alt="Gmail" height="30" width="40" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg">
     </a>
 </div>
