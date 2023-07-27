@@ -15,7 +15,7 @@
 <div style="display: inline_block;">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Delphi" height="30" width="30" src="icons/Delphi.svg">
     <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -28,7 +28,8 @@
 
 ### Frameworks
 <div style="display: inline_block;">
-    <img align="center" alt=".Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+    <img align="center" alt=".Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg">
+    <img align="center" alt=".Net Core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
     <img align="center" alt=".Net Maui" height="30" width="40" src="https://raw.githubusercontent.com/MahmudX/awesome-maui/main/dotnet_bot.svg">
     <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
@@ -79,7 +80,7 @@
     <img align="center" alt="Sublime Text" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
     <img align="center" alt="Atom" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
     <img align="center" alt="Adobe Dreamweaver" height="30" width="30" src="icons/Dreamweaver.svg">
-    <img align="center" alt="Android Studio" height="30" width="40" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/android-studio-icon.svg">
+    <img align="center" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
     <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="NetBeans IDE" height="30" width="30" src="icons/NeatBeansIde.svg">
     <img align="center" alt="PyCharm" height="30" width="30" src="icons/PyCharm.svg">
