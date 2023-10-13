@@ -78,7 +78,7 @@
 
 ### Operational System
 <div>
-    <img align="center" alt="Windows" title="Windows" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+    <img align="center" alt="Windows" title="Windows" height="30" width="30" src="icons/Windows.svg">
     <img align="center" alt="Apple" title="MacOS" height="30" width="40" src="icons/macOS.svg">
     <img align="center" alt="Linux" title="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" alt="Android" title="Android" height="30" width="40" src="icons/Android.svg">
