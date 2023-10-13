@@ -45,11 +45,6 @@
 
 ### DataBases
 <div style="display: inline-block;">
-    <img align="center" alt="Microsoft SQL Server" height="30" width="30" src="icons/SqlServe.svg">
-    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" alt="MariaDB" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mariadb.svg">
-    <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 </div><br>
     
 ### IA/ChatBot
@@ -78,16 +73,22 @@
 ### IDEs
 <div style="display: inline_block;">
     <img align="center" alt="Visual Studio" height="30" width="40" src="icons/VS.svg">
-    <img align="center" alt="Sublime Text" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-    <img align="center" alt="Atom" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
-    <img align="center" alt="Adobe Dreamweaver" height="30" width="30" src="icons/Dreamweaver.svg">
-    <img align="center" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+    <img align="center" alt="Microsoft SQL Server" height="30" width="30" src="icons/SqlServe.svg">
     <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="NetBeans IDE" height="30" width="30" src="icons/NeatBeansIde.svg">
+    <img align="center" alt="Oracle SQL Developer" height="30" width="25" src="icons/sql-dev.svg">
+    <img align="center" alt="IntelliJ IDEA" height="30" width="40" src="icons/idea.svg">
+    <img align="center" alt="NetBeans IDE" height="30" width="28" src="icons/NeatBeansIde.svg">
     <img align="center" alt="PyCharm" height="30" width="30" src="icons/PyCharm.svg">
-    <img align="center" alt="PhpStorm" height="30" width="30" src="icons/PhpStorm.svg">
+    <img align="center" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+    <br>
     <img align="center" alt="Arduino IDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+    <img align="center" alt="Sublime Text" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
     <img align="center" alt="XAMPP" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/xampp.svg">
+    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="MariaDB" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mariadb.svg">
+    <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+    <img align="center" alt="Atom" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
 </div><br>
 
 ### Hospedagens de código
