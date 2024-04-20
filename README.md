@@ -142,7 +142,6 @@
     <img align="center" alt="Adobe " title="Adobe Illustrator" height="30" width="40" src="icons/Illustrator.svg">
     <img align="center" alt="Canva" title="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
     <img align="center" alt="Inkscape" title="Inkscape" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg">
-    <img align="center" alt="Fusion 360" title="Fusion 360" height="35" width="35" src="icons/Fusion360.svg">
 </div><br>
 
 ### Project management
